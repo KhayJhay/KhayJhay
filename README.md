@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Insurance Hub Mobile](https://github.com/KhayJhay/maid_admin_mobile)
 
-- 🌱 I’m currently learning **Figma, Nodejs and Aws**
+- 🌱 I’m currently learning **CyberSecurity, Nodejs and Aws**
 
 - 👯 I’m looking to collaborate on [WeClean Ghana Mobile](https://github.com/WeClean-Inc/weclean_pro_app)
 
